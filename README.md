@@ -49,11 +49,10 @@ This project was created to reduce repetitive steps when opening lilAvatarUtils 
 
 ## Author
 
-nur_ieren
-
-[X](https://x.com/nur_ieren)
+vor_ges
 
 ## Licence
+
 This project is licensed under the MIT License, see the LICENSE file for details.
 
 [MIT License](https://opensource.org/license/mit)
