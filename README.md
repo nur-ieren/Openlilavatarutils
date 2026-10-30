@@ -50,7 +50,6 @@ This project was created to reduce repetitive steps when opening lilAvatarUtils 
 ## Author
 
 - nur_ieren
-
 - vor_ges
 
 ## Licence
