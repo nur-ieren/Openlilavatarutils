@@ -45,10 +45,6 @@ The tool opens the lilAvatarUtils window and attempts to assign the selected Gam
 - Target assignment uses reflection to find a suitable field in the lilAvatarUtils editor window.
 - Compatibility depends on the internal structure of lilAvatarUtils. Changes to its window type or target fields may affect automatic assignment.
 
-## Development
-
-This project was created to reduce repetitive steps when opening lilAvatarUtils for a particular GameObject.
-
 ## Author
 
 - nur_ieren
