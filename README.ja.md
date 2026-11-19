@@ -45,10 +45,6 @@ lilAvatarUtilsのウィンドウが開き、選択中のGameObjectが対象と�
 - 対象GameObjectの割り当てにはReflectionを使用し、lilAvatarUtilsのエディターウィンドウ内から適切なフィールドを検索します。
 - 互換性はlilAvatarUtilsの内部構造に依存します。ウィンドウの型や対象を保持するフィールドが変更された場合、自動割り当てに影響する可能性があります。
 
-## 開発について
-
-このプロジェクトは、特定のGameObjectに対してlilAvatarUtilsを開く際の繰り返し作業を減らすことを目的として開発されました。
-
 ## 作者
 
 - nur_ieren
