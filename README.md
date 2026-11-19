@@ -1,5 +1,7 @@
 # Openlilavatarutils
 
+[日本語](README.ja.md)
+
 A Unity Editor shortcut for opening lilAvatarUtils with a selected GameObject.
 
 ## Concept
